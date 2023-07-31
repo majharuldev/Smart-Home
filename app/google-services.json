@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98531237058",
+    "project_id": "smarthousekeeping-ff139",
+    "storage_bucket": "smarthousekeeping-ff139.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98531237058:android:ad245e6d4bbdc54530af5b",
+        "android_client_info": {
+          "package_name": "l2nsoft.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98531237058-ksb945grnmgvc1g5oneqsv2dfjbnu3se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNcuPCJGup1eAnPL_G3ELBgfU3_WnQ_VA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98531237058-ksb945grnmgvc1g5oneqsv2dfjbnu3se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

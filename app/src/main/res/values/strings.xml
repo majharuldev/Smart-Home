@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Smart House Keeping</string>
+
+
+    <string name="phone">Phone</string>
+    <string name="cross_image_content_description">Delete student from SQLite database</string>
+    <string name="empty_student_list_message">Person List is Empty!</string>
+    <string name="student_name"> Name</string>
+    <string name="update">Update</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="create_button">Create</string>
+    <string name="all_delete">All Delete</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="edit_button_description">Edit Single student information</string>
+
+
+</resources>
